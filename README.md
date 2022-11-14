@@ -4,7 +4,7 @@ Responsive React project that allows users to find github users by searching the
 
 # Site
 
--https://find-github-users-react.netlify.app/
+- https://find-github-users-react.netlify.app/
 
 # Features
 
