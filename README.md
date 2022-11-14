@@ -24,4 +24,4 @@ Main project contains pages, components and context.
 
 # Site
 
--https://find-github-users-react.netlify.app/
+- https://find-github-users-react.netlify.app/
